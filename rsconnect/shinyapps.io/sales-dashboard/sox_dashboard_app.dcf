@@ -1,0 +1,12 @@
+name: sox_dashboard_app
+title: sox_dashboard_app
+username: sales-dashboard
+account: sales-dashboard
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16693019
+bundleId: 11593634
+url: https://sales-dashboard.shinyapps.io/sox_dashboard_app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
